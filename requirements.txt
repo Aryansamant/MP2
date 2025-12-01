@@ -1,0 +1,6 @@
+streamlit
+pandas
+python-dotenv
+sqlalchemy
+psycopg2-binary
+groq
